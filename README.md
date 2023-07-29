@@ -1,5 +1,6 @@
 <h1 align="center">Naresh Gusain</h1>
 <h3 align="center">Data Science | Machine Learning | Deep Learning</h3>
+<!-- <img src="https://media.licdn.com/dms/image/D4D16AQFlivw3X2LxIg/profile-displaybackgroundimage-shrink_350_1400/0/1685870212656?e=1695859200&v=beta&t=xE7U_Qpq2dOSVCbkDGNTx0SXiB3pXXVOcNksrBh0Aq0" alt="Header from LinkedIN"> -->
 
 <p align="left"> <a href="https://twitter.com/nareshgusian00" target="blank"><img src="https://img.shields.io/twitter/follow/nareshgusian00?logo=twitter&style=for-the-badge" alt="nareshgusian00" /></a> </p>
 
