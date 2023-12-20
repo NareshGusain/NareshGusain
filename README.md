@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on **Time series Forcasting - LSTM**
 
-- 🌱 I’m currently learning **Data Scraping**
+- 🌱 I’m currently learning **Hyper parameter tuning**
 
 - 👯 I’m looking to collaborate on **Machine learning Projects**
 
-- 🤝 I’m looking for help with **Bitcoin Price Predictor**
+- 🤝 I’m looking for help with **LLMs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
