@@ -2,7 +2,7 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=NareshGusain&color=blueviolet&style=flat-square)
 <a><img src="https://img.shields.io/github/followers/NareshGusain?label=Followers&style=social" alt="GitHub Badge"></a>
-# Data Science | Machine Learning | </b>&nbsp;
+# Data Science | Machine Learning | AI </b>&nbsp;
 
 - 🔭 I’m currently working on **ChatBots**
 - 🌱 I’m currently learning **Transformer and LLM's**
